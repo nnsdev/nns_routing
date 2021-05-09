@@ -21,7 +21,7 @@ Basic fivem library to support routing buckets to split game state
 
 Moves the entity to specified bucket. If the bucket does not get defined it gets created with default properties
 
-- `exports['nns_routing']:SetEntityBucket(:entity): number`
+- `exports['nns_routing']:GetEntityBucket(:entity): number`
 
 Gets the bucket the entity is currently in
 
